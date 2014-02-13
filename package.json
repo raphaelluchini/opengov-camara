@@ -1,0 +1,30 @@
+{
+  "name": "opengov-camara",
+  "main": "./index.js",
+  "version": "1.0.0",
+  "description": "Node.js helper for getting parliamentary attendancies from Chamber of Deputies in Brazil",
+  "preferGlobal": "true",
+  "author": "Raphael Luchini",
+  "engines": { "node": "*" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raphaelluchini/opengov-camara.git"
+  },
+  "dependencies" : {
+    "node-soap": "~0.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/raphaelluchini/opengov-camara/issues"
+  },
+  "notes": "Node-soap is a fork: https://github.com/jValdron/node-soap",
+  "tags": [
+    "opengov",
+    "camara",
+    "brazil",
+    "brasil",
+    "transparency",
+    "transparencia",
+    "governo",
+    "politica"
+  ]
+}
