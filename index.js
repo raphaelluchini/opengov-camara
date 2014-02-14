@@ -1,1 +1,1 @@
-module.exports = require('./lib/govservices');
+module.exports = require('./lib/opengov');

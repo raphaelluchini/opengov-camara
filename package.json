@@ -11,12 +11,12 @@
     "url": "https://github.com/raphaelluchini/opengov-camara.git"
   },
   "dependencies" : {
-    "node-soap": "~0.3.0"
+    "soap": "~0.3.0"
   },
   "bugs": {
     "url": "https://github.com/raphaelluchini/opengov-camara/issues"
   },
-  "notes": "Node-soap is a fork: https://github.com/jValdron/node-soap",
+  "notes": "soap is a fork: https://github.com/jValdron/node-soap",
   "tags": [
     "opengov",
     "camara",
